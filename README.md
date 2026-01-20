@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋, Soy Oliver Guerra</h1>
+<h3 align="center">Futuro Cloud Engineer | Estudiante de Ingeniería de Software en UNMSM 🏛️ | Camino a Google Toronto 🌎</h3>
 
-<!--
-**revilo3681/revilo3681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=el-oliss&label=Perfil%20visto&color=0e75b6&style=flat" alt="el-oliss" /> </p>
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Mi meta:** Ser **Director de Tecnología en Google Toronto** en 8-10 años.
+- 🗺️ **Mi hoja de ruta:** Cloud Engineer (Perú) → Tech Lead → MBA (Rotman) → Director (Google Toronto).
+- 🌱 **Actualmente aprendiendo:** Fundamentos de Cloud Computing, Python para automatización y Scrum.
+- 📚 **Certificaciones en progreso:**
+  - `Scrum Master PSM I` (Año 3-4 de Universidad)
+  - `Google Data Analytics` (Año 4-5 de Universidad)
+- 🤝 **Busco oportunidades:** Prácticas de verano 2024 en empresas tech de Lima (Accenture, IBM Perú, Globant).
+- 📫 **Cómo contactarme:** **reviloguerragaytan@gmail.com**
+- 📄 **Conoce mi estrategia detallada:** [Plan Director Google Toronto](#) *(Puedes linkear un blog futuro)*
+- ⚡ **Dato curioso:** Creo que la constancia estratégica vence al talento desorganizado.
+
+<h3 align="center">Conecta conmigo 🤝</h3>
+<p align="center">
+<a href="https://linkedin.com/in/oliver-jhojan-guerra-gaytan-327a333a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver" height="30" width="40" /></a>
+<a href="https://github.com/el-oliss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oliss" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🎯 **Stack Tecnológico (En Desarrollo)**
+
+<p align="center">
+  <h4>Lenguajes & Herramientas:</h4>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 **Estadísticas de GitHub**
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=el-oliss&show_icons=true&locale=es&theme=tokyonight" alt="el-oliss" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-oliss&theme=tokyonight" alt="el-oliss" />
+</p>
+
+---
+
+### 📌 **Mi Checklist de los Próximos 12 Meses**
+
+- [x]  Crear perfil de GitHub profesional.
+- [ ]  Completar certificación **Scrum Master PSM I**.
+- [ ]  Iniciar curso **Google Data Analytics**.
+- [ ]  Subir 2 proyectos de automatización/cloud con Python.
+- [ ]  Aplicar a +10 prácticas de verano en tech.
+- [ ]  Conseguir mi primera práctica como Cloud Engineer Jr.
+
+---
+
+### 🗺️ **La Estrategia Visual: De Lima a Toronto**
+
+```mermaid
+timeline
+    title Oliver's 10-Year Path
+    section Años 1-5 : Perú 🇵🇪
+        2024-2025 : Cloud Engineer Jr<br>(Globant, IBM Perú)
+        2026-2027 : Cloud Engineer Sr<br>(Mercado Libre, Rappi)
+        2028 : Tech Lead
+    section Años 6-7 : Toronto 🍁
+        2029-2030 : MBA Rotman<br>+ Internship Google
+    section Años 8-10 : Google Toronto 🏢
+        2031-2032 : Senior Product Manager
+        2033+ : Director of Technology
