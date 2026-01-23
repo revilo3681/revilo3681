@@ -40,11 +40,6 @@
 
 ### 📊 **Estadísticas de GitHub**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=el-oliss&show_icons=true&locale=es&theme=tokyonight" alt="el-oliss" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-oliss&theme=tokyonight" alt="el-oliss" />
-</p>
 
 ---
 
@@ -59,17 +54,3 @@
 
 ---
 
-### 🗺️ **La Estrategia Visual: De Lima a Toronto**
-
-```mermaid
-timeline
-    title Oliver's 10-Year Path
-    section Años 1-5 : Perú 🇵🇪
-        2024-2025 : Cloud Engineer Jr<br>(Globant, IBM Perú)
-        2026-2027 : Cloud Engineer Sr<br>(Mercado Libre, Rappi)
-        2028 : Tech Lead
-    section Años 6-7 : Toronto 🍁
-        2029-2030 : MBA Rotman<br>+ Internship Google
-    section Años 8-10 : Google Toronto 🏢
-        2031-2032 : Senior Product Manager
-        2033+ : Director of Technology
